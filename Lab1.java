@@ -29,8 +29,7 @@ class Question2
       for (int i = 102; i >= 66; i--) 
       {
         if (i % 2 != 0) {
-          int odd = i;
-          System.out.println("Value of i=" + odd);
+          System.out.println("Value of i=" + i);
       }
     }
   }
