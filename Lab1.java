@@ -30,7 +30,7 @@ class Question2
       {
         if (i % 2 != 0) {
           System.out.println("Value of i=" + i);
+        }
       }
     }
-  }
 }
